@@ -1,10 +1,10 @@
 # terraform
 crate aws-ec2 and deploy nginx using terraform and ansible
-Table of Contents
+# Table of Contents
 About The Project
 Built With
 Getting Started
-Prerequisites
+# Prerequisites
 Installation
 Usage
 About The Project
