@@ -10,12 +10,12 @@ The project is built using,
 * AWS resources
 * Terraform
 * Ansible
-Getting Started
-Prerequisites
-Create a free tier AWS account.
-Create an IAM user with programmable access and make a note of the access and secret keys.
-Installation
-Install Terraform on local laptop
+
+# Prerequisites
+Create a free tier AWS account./n
+Create an IAM user with programmable access and make a note of the access and secret keys./n
+Installation/n
+Install Terraform on local laptop/n
 Install Ansible on ec2
 
 Standing up the Infrastructure
