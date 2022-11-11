@@ -1,21 +1,15 @@
 # terraform
 crate aws-ec2 and deploy nginx using terraform and ansible
-# Table of Contents
-About The Project
-Built With
-Getting Started
-# Prerequisites
-Installation
-Usage
-About The Project
+
+# About The Project
 This project is built to host a nginx application in AWS EC2 instance.
 
-Built With
+# Built With
 The project is built using,
 
-AWS resources
-Terraform
-Ansible
+* AWS resources
+* Terraform
+* Ansible
 Getting Started
 Prerequisites
 Create a free tier AWS account.
