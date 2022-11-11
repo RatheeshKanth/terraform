@@ -12,21 +12,21 @@ The project is built using,
 * Ansible
 
 # Prerequisites
-Create a free tier AWS account./n
-Create an IAM user with programmable access and make a note of the access and secret keys./n
-Installation/n
-Install Terraform on local laptop/n
-Install Ansible on ec2
+* Create a free tier AWS account.
+* Create an IAM user with programmable access and make a note of the access and secret keys.
+#Installation
+* Install Terraform on local laptop
+* Install Ansible on ec2
 
-Standing up the Infrastructure
-The infrastructure is setup in AWS using Terraform.
+#Standing up the Infrastructure
+* The infrastructure is setup in AWS using Terraform.
 
 cd into the infrastructure folder in the cloned repository.
 Run the following commands in order
-terraform init
-terraform plan
-terraform apply
-This will provision the required infrastructure and provides the EC2 instance public IP as the output.
+* terraform init
+* terraform plan
+* terraform apply
+* This will provision the required infrastructure and provides the EC2 instance public IP as the output.
 
-Installing the nginx
-The next step is to install the required softwares in the EC2 instance and deploy the nginx application. This is done using ansible and check the output.
+* Installing the nginx
+* The next step is to install the required softwares in the EC2 instance and deploy the nginx application. This is done using ansible and check the output.
